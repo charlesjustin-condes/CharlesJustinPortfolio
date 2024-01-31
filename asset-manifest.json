@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CharlesJustinPortfolio/static/css/main.bf538fe7.css",
+    "main.js": "/CharlesJustinPortfolio/static/js/main.1190dc6b.js",
+    "static/media/HeroImage.JPG": "/CharlesJustinPortfolio/static/media/HeroImage.0657a34d2f39bad1fbf8.JPG",
+    "static/media/CV_CONDES.pdf": "/CharlesJustinPortfolio/static/media/CV_CONDES.c990be72315cba3f428e.pdf",
+    "index.html": "/CharlesJustinPortfolio/index.html",
+    "main.bf538fe7.css.map": "/CharlesJustinPortfolio/static/css/main.bf538fe7.css.map",
+    "main.1190dc6b.js.map": "/CharlesJustinPortfolio/static/js/main.1190dc6b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.1190dc6b.js"
+  ]
+}
